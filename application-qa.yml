@@ -1,6 +1,6 @@
 limits-service:
   maximum: 33
-  minimum: 3333
+  minimum: 3330
 management:
   security:
     enabled: false
